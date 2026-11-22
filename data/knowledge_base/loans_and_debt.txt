@@ -1,0 +1,78 @@
+LOANS AND DEBT MANAGEMENT
+
+1. Understanding Loans
+A loan is money borrowed from a lender that must be repaid over an
+agreed period, usually with interest.
+
+Important loan factors:
+- Principal amount.
+- Annual interest rate.
+- Loan tenure.
+- Monthly EMI.
+- Processing fees.
+- Repayment conditions.
+
+2. Equated Monthly Instalment (EMI)
+EMI is the fixed periodic payment made by a borrower toward repayment
+of a loan.
+
+EMI depends on:
+- Principal loan amount.
+- Monthly interest rate.
+- Number of monthly instalments.
+
+The EMI formula is:
+
+EMI = P × r × (1+r)^n / ((1+r)^n - 1)
+
+Where:
+P = Principal loan amount
+r = Monthly interest rate in decimal form
+n = Total number of monthly payments
+
+3. Managing Loan Repayments
+Responsible repayment practices include:
+- Pay EMIs before their due dates.
+- Understand the total interest payable.
+- Avoid unnecessary borrowing.
+- Maintain an emergency reserve.
+- Review loan statements regularly.
+
+4. Debt Repayment Strategies
+
+Debt Avalanche:
+Prioritise debts with the highest interest rates while maintaining
+minimum payments on other debts. This can reduce total interest costs.
+
+Debt Snowball:
+Prioritise the smallest outstanding debt first while maintaining
+minimum payments on other debts. This may help build repayment
+motivation.
+
+5. Credit Score
+A credit score represents creditworthiness based on information in
+a person's credit history.
+
+Factors that may affect a credit score:
+- Repayment history.
+- Credit utilisation.
+- Length of credit history.
+- Credit mix.
+- Recent credit enquiries.
+
+In India, credit scores are provided by credit information companies.
+A score should be interpreted according to the relevant provider's
+scoring system.
+
+6. Avoiding Excessive Debt
+Good practices include:
+- Borrow only what you can repay.
+- Compare interest rates and loan terms.
+- Avoid unnecessary credit applications.
+- Pay bills on time.
+- Monitor outstanding balances.
+
+7. Financial Disclaimer
+Loan calculations are estimates. Actual repayment amounts may vary
+because of lender-specific interest calculations, fees, taxes, and
+loan conditions.

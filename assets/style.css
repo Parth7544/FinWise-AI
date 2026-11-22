@@ -1,0 +1,49 @@
+/* Main application background */
+.stApp {
+    background-color: #0e1117;
+    color: #ffffff;
+}
+
+/* Main headings */
+h1, h2, h3 {
+    color: #00d4aa;
+    font-weight: 700;
+}
+
+/* Metric cards */
+[data-testid="stMetric"] {
+    background-color: #1c2333;
+    padding: 18px;
+    border-radius: 12px;
+    border: 1px solid #303b50;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #00b894;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 18px;
+    font-weight: 600;
+}
+
+/* Input fields */
+.stNumberInput input,
+.stTextInput input,
+.stTextArea textarea {
+    background-color: #1c2333;
+    color: white;
+    border-radius: 8px;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #151b29;
+}
+
+/* Dataframes */
+[data-testid="stDataFrame"] {
+    border: 1px solid #303b50;
+    border-radius: 10px;
+}

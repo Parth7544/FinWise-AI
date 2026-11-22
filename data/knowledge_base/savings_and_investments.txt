@@ -1,0 +1,77 @@
+SAVINGS AND INVESTMENTS
+
+1. Difference Between Saving and Investing
+Saving means keeping money aside for future needs, usually with low risk
+and easy access.
+
+Investing means putting money into financial assets with the expectation
+of earning returns over time. Investments involve varying levels of risk.
+
+2. Fixed Deposits (FD)
+A fixed deposit allows an individual to deposit a lump sum for a
+specified period at an agreed interest rate.
+
+Important factors:
+- Deposit amount.
+- Interest rate.
+- Investment duration.
+- Compounding frequency.
+- Premature withdrawal conditions.
+
+Returns depend on the bank's terms and applicable interest rates.
+
+3. Recurring Deposits (RD)
+A recurring deposit allows an individual to deposit a fixed amount
+regularly, generally every month, for a specified period.
+
+It can help develop disciplined saving habits.
+
+4. Systematic Investment Plans (SIP)
+An SIP allows an investor to invest a fixed amount at regular intervals
+in a mutual fund.
+
+Important considerations:
+- Investment duration.
+- Market performance.
+- Fund expenses.
+- Risk tolerance.
+- Investment objectives.
+
+SIP returns are not guaranteed because mutual fund investments are
+subject to market risks.
+
+5. Investment Risk
+Investment risk refers to the possibility that actual returns may be
+lower than expected or that an investor may lose money.
+
+Common risk factors include:
+- Market fluctuations.
+- Inflation.
+- Interest rate changes.
+- Credit risk.
+- Liquidity risk.
+
+6. Compound Interest
+Compound interest is calculated on the initial principal and accumulated
+interest.
+
+The compound amount can be calculated using:
+
+A = P(1 + r/n)^(nt)
+
+Where:
+P = Principal amount
+r = Annual interest rate in decimal form
+n = Number of compounding periods per year
+t = Number of years
+
+7. Diversification
+Diversification means spreading investments across different assets
+to reduce dependence on a single investment.
+
+Diversification does not eliminate all investment risks.
+
+8. Financial Disclaimer
+Investment calculators provide mathematical estimates. Actual returns
+depend on product terms, market conditions, taxes, fees, and other
+factors. Past performance does not guarantee future returns.
