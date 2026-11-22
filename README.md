@@ -262,7 +262,7 @@ venv\\Scripts\\activate
 
 
 
-Install the project dependencies required by the application.
+pip install -r requirements.txt
 
 
 
