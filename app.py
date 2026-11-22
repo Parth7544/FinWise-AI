@@ -47,7 +47,14 @@ def get_rag_resources():
     return create_vector_store()
 
 # Load transactions
-df = pd.read_csv("data/transactions.csv")
+import os
+
+transactions_file = "data/transactions.csv"
+
+if not os.path.exists(transactions_file):
+    transactions_file = "data/transactions_sample.csv"
+
+df = pd.read_csv(transactions_file)
 df["Date"] = pd.to_datetime(df["Date"])
 
 income = df[df["Type"] == "Income"]["Amount"].sum()

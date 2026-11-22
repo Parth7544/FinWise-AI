@@ -55,12 +55,17 @@ def save_goals(goals):
 
 def load_goals():
 
-    if not os.path.exists(GOALS_FILE):
+    file_path = GOALS_FILE
+
+    if not os.path.exists(file_path):
+        file_path = "data/financial_goals_sample.csv"
+
+    if not os.path.exists(file_path):
         return []
 
     try:
-        df = pd.read_csv(GOALS_FILE)
-    except pd.errors.EmptyDataError:
+        df = pd.read_csv(file_path)
+    except (pd.errors.EmptyDataError, pd.errors.ParserError):
         return []
 
     columns = ["name", "target", "saved"]

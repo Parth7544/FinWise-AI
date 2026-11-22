@@ -1,0 +1,13 @@
+Date,Description,Category,Amount,Type
+2026-10-01,Monthly Salary,Income,40000,Income
+2026-10-03,Groceries,Food,3000,Expense
+2026-10-05,Electricity,Bills,1800,Expense
+2026-10-08,Restaurant,Food,1200,Expense
+2026-10-10,Petrol,Transport,2000,Expense
+2026-10-12,Shopping,Shopping,2500,Expense
+2026-11-01,Monthly Salary,Income,42000,Income
+2026-11-03,Groceries,Food,3200,Expense
+2026-11-05,Electricity,Bills,1700,Expense
+2026-11-08,Food Delivery,Food,1000,Expense
+2026-11-10,Petrol,Transport,1800,Expense
+2026-11-12,Shopping,Shopping,2200,Expense
