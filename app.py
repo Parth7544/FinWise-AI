@@ -29,7 +29,7 @@ from google import genai
 from rag_engine import create_vector_store, retrieve_relevant_documents
 from finance_tools import run_finance_agent
 # Load API key
-load_dotenv(r"C:\Users\User\FinWise-AI\.env")
+load_dotenv()
 api_key = os.getenv("GEMINI_API_KEY")
 
 st.title("💰 FinWise AI")
