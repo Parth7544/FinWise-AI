@@ -216,13 +216,23 @@ FinWise-AI/
 
 
 
+
+
 \## Installation and Setup
 
 
 
-\### 1. Clone the repository
+\### Requirements
+
+\- Python 3.13
+
+\- Git
+
+\- Gemini API Key
 
 
+
+\### 1. Clone the Repository
 
 ```bash
 
@@ -234,9 +244,7 @@ cd FinWise-AI
 
 
 
-\### 2. Create a virtual environment
-
-
+\### 2. Create a Virtual Environment
 
 ```bash
 
@@ -246,11 +254,9 @@ python -m venv venv
 
 
 
-Activate it on Windows:
+\### 3. Activate the Environment (Windows)
 
-
-
-```bash
+```cmd
 
 venv\\Scripts\\activate
 
@@ -258,37 +264,47 @@ venv\\Scripts\\activate
 
 
 
-\### 3. Install dependencies
+\### 4. Install Dependencies
 
+```bash
 
+python -m pip install --upgrade pip
 
 pip install -r requirements.txt
-
-
-
-\### 4. Configure the Gemini API key
-
-
-
-Create a `.env` file in the project root:
-
-
-
-```env
-
-GEMINI\_API\_KEY=your\_gemini\_api\_key
 
 ```
 
 
 
-Get an API key from \[Google AI Studio](https://aistudio.google.com/app/apikey).
+\### 5. Configure Gemini API Key
 
 
 
-\### 5. Run the application
+Copy the example environment file:
+
+```cmd
+
+copy .env.example .env
+
+```
 
 
+
+Open `.env` and add your Gemini API key:
+
+```env
+
+GEMINI\_API\_KEY=your\_gemini\_api\_key\_here
+
+```
+
+
+
+Never upload your `.env` file or share your API key publicly.
+
+
+
+\### 6. Run the Application
 
 ```bash
 
